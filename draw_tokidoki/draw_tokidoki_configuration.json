@@ -1,12 +1,12 @@
 {
     "latest_version":"1.0.0",
+    "is_admob_in_grid":true,
     "is_admob":true,
-    "version":"PRODUCTION",
+    "version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_8/master/draw_tokidoki/draw_tokidoki_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_8/master/draw_tokidoki/draw_tokidoki_category_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_for_girl/",
-    "google_analytic_id":"UA-51272761-24",
     "admob_banner_id":"ca-app-pub-4322965078780162/8377514339",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/9854247533",
-    "itune_url":"###"
+    "itune_url":"http://itunes.apple.com/app/id1127261865"
 }
